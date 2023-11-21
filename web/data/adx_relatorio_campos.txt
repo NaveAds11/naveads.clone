@@ -1,0 +1,1 @@
+["relatorioData","relatorioUtm","relatorioCampanhaID",null,null,null,null,null,null]

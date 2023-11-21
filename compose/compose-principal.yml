@@ -1,0 +1,9 @@
+version: "3"
+services:
+  php:
+    image: emailnaveads/naveads.clone:latest
+    privileged: true
+    cpus: "4.0"
+    mem_limit: 6G 
+    network_mode: "host"
+    restart: always

@@ -1,0 +1,1 @@
+["relatorioData","relatorioUtm","relatorioTargetID","relatorioImpressoesNaoPreenchidas","relatorioImpressoes","relatorioCliques","relatorioCTR","relatorioReceitaTotal","relatorioEcpm"]

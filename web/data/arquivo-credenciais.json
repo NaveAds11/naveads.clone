@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "painel-naveads",
+  "private_key_id": "65fa372e602a43a408e3973e1067285e69903fa5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7h1cbSx4+D2tX\nujRm5DAyBBLi3BSQeC1qxlf7Fc4azonJv8+Wvq1v7wOV2zUEa/2Q4s1fxueFtcrX\n3Zrk2HCdRKCy0GsNA4lsse5Gt/2bMt2uF0h8KVievadqkI74NypYEIsSukPve087\nWW0MhWDea/P6tTdKbW7yXaJ72eZxdHf5TmDV5Fsfu4NjfF7MQ7DyiK2LJjO0ZvJ5\nYiSnaGtzk0lj2KVV5fuvOsiElgiaj6JLyCGz9Br2ruXGdB0gnOhl/lPaYb5Li1AA\nU+seaoMM1t5QsR2ZdPq+RHCsDi+WL3GeOBW0xxaECcFKZGvNUyDs7IFqi2QIdDM6\nWCR5BAZ/AgMBAAECggEAGhyDic6xLKhY+fjOHcWIMG6rcosnvItUnO7L3ATykyj5\nu+3JVI7C942q93geWbnvr0zlQSt2Rq1EIT/qDBNXGuQuEWKT2qwIu+nKk8OVZxbI\nvIThbZMUPoY0hCdna4htjPWWEnV9ICC7V42MHEI2IBedUTtfsi1VVXSpkIqMBnVD\nwWGCWT9/YAAsEMdySKPnhwpcJ+en6jOvBloGhSCcNLGg+rcx5HctbNBKD469zMl+\nEnlTgUjvSztUzKSDL10hnMP4owqluj9s8fwXCGx8ZjN4z5QkRL+D3wGqmNWLmBIl\n0afdJZw3qIVx392LfjlZgzE9iYqkybfBXZq6KRtUgQKBgQD1XV80JVtpYA4BROIY\nCIbu2KWFppOiRfMO0kFL6N8AmlP2UvN69TCUPBXBk+iXGH/jK+ovEmtXJ6RW/e36\ngr2paEjkI6Bdmc6k/SAW+c6eXt413TovVMVZSpiWwLMDFDh3k2/6F36znb80Xs7B\nlr+THHe5BtYcNHUIbBx3SSsL1QKBgQDDqDR+YS86xwWYYuFo4CQkGDBFJ6UgRDvS\ndtiq+/rxDwWPw8LZGy4YMFQdPOLukPfzmsv5qimXGuZZS3rE2IOmswqRex1MNWhh\nNdHfr856rFRA1A4WtzBchLjl5MTUv19SNhY+P1udRKIV+REVAtJTtYWrXCWxMBwu\ni5y2NMfXAwKBgAP1EpEDvTqw2uj4VHEwygRWKC1Ep4Lpf+cQSw9PXTFkS9BgPB8S\nj0sEwRETMqAlPALM9YT21hZcxFDG3ay5qRdvYCWV0YNQ9L1Ce98C/msdepYB0Gtt\nAZXUFyvvRbPaAqMjFJ5C/L8m3yuYD9udc8+KmP+59YAU9IJDRB5EZtZVAoGAE4ik\njQWI4JZkIZ2loYHXOd9MWmsl2j3VtyJ0aUW0/QIh7QN/XYuQI4wXqb+dbHH+v0xy\nFt/9PP/LhZi6jhKLukXfxTyEZUpjvGjSJkH4HFk+JCbHrU7mviXmC9W2LQNaMewC\ndn5+2Am1IPp30SAx/Xd+++e8P59tANyhbbOBTB8CgYBNZBWcF/tt2TLSzEg8o7dK\n+F8eo/F3HVVq9HwGJEoGeC/0wsYXuLCUh7BrOSDqwEAm+Cm6vDwlRMHBj/68L5LQ\no/ltDr74YOoM1rzkYwhatfajqU1z5HUeM5oESCyj55V/03Lzri5/lgLTiT6NF/Rj\nNyQbX1+qOsZoC2ZsZR2w9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admanager@painel-naveads.iam.gserviceaccount.com",
+  "client_id": "103265967656518149406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admanager%40painel-naveads.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

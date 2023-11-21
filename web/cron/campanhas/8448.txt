@@ -1,0 +1,1 @@
+{"campanhaId":"23862475479170291","conjuntos":[{"conjuntoId":"23862475479290291","creativosIds":["23862475509450291"],"anunciosIds":["23862475509960291"]}]}
